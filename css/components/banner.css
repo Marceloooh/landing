@@ -1,0 +1,19 @@
+.banner {
+  background-image: url('../../images/background.png');
+  padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.container h1 {
+  color: white;
+  margin: 0;
+}
+
+.container p {
+  color: rgb(188, 188, 188);
+  margin-bottom: 30px;
+}

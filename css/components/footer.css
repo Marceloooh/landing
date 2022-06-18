@@ -1,0 +1,22 @@
+.footer {
+  background-color: #2c2b2b;
+  text-align: center;
+  padding: 60px;
+}
+
+.footer > ul > li > a {
+  font-size: 30px;
+  color: #1EDD88;
+  text-decoration:none;
+  padding: 0 10px;
+}
+
+.footer > ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.footer p {
+  color:grey;
+}
